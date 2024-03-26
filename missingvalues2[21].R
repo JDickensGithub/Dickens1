@@ -1,11 +1,11 @@
 
 library(tidyverse)
-# Test for missing values  James Dickens
+# FirstTest for missing values  James Dickens
 
 #To identify missing values use is.na() which returns a logical vector with TRUE in the element locations that contain missing values represented by NA. is.na() will work on vectors,
 # lists, matrices, and data frames.
 
-# vector with missing data
+
 x <- c(1:4, NA, 6:7, NA)
 x
 ## [1]  1  2  3  4 NA  6  7 NA

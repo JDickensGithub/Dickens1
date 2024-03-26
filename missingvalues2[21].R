@@ -1,6 +1,6 @@
 
 library(tidyverse)
-# Test for missing values
+# Test for missing values  James Dickens
 
 #To identify missing values use is.na() which returns a logical vector with TRUE in the element locations that contain missing values represented by NA. is.na() will work on vectors,
 # lists, matrices, and data frames.
